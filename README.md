@@ -23,7 +23,7 @@
 
 
 ## Algorithms used
-* Logistic regression
+* Logistic regression 
 * Decision tree Classifier
 * Random Forest Classifier
 * K-Nearest Neighbors
